@@ -1,3 +1,1 @@
-This is test file
-This is added line
-This is third line
+This is test1 file
